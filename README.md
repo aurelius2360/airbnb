@@ -1,1 +1,1 @@
-I used both linear regression and random forest in this project the visualiztion had been done in separate ipynb file. i literaly didn't expect the model to such high accuracy it may be overfitting so next add some noice to it and check 
+I used both linear regression and random forest in this project the visualiztion had been done in separate ipynb file. i literaly didn't expect the model to output such high accuracy it may be overfitting so next time add some noice to it and check 
